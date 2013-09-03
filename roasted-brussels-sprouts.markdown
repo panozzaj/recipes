@@ -6,10 +6,10 @@ Tags: appetizer, side dish, vegetarian, vegan
 
 ## Ingredients
 
-1 1/2 pounds Brussels sprouts
-3 tablespoons good olive oil
-3/4 teaspoon kosher salt
-1/2 teaspoon freshly ground black pepper
+ * 1 1/2 pounds Brussels sprouts
+ * 3 tablespoons good olive oil
+ * 3/4 teaspoon kosher salt
+ * 1/2 teaspoon freshly ground black pepper
 
 
 ## Directions
