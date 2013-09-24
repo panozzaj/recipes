@@ -1,6 +1,6 @@
 # Chipotle Black Bean and Rice Stew
 
-Tags: vegetarian
+Tags: vegetarian, tried
 
 [Likely origin](http://www.grouprecipes.com/427/chipotle-black-bean-and-rice-stew.html)
 

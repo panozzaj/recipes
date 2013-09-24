@@ -1,6 +1,6 @@
 # Roasted Brussels Sprouts
 
-Tags: appetizer, side dish, vegetarian, vegan
+Tags: appetizer, side dish, vegetarian, vegan, tried
 
 [Source](http://www.foodnetwork.com/recipes/ina-garten/roasted-brussels-sprouts-recipe2/index.html)
 
