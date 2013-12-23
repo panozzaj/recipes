@@ -8,13 +8,13 @@ Tags: chicken, thai, to try
 
 ## Ingredients
 
-1 chicken
-1 teaspoon fish sauce
-4-5 cloves garlic
-1 stalk lemongrass
-1 teaspoon peppercorns
-1 tablespoon salt
-1 piece Turmeric
+ * 1 chicken
+ * 1 teaspoon fish sauce
+ * 4-5 cloves garlic
+ * 1 stalk lemongrass
+ * 1 teaspoon peppercorns
+ * 1 tablespoon salt
+ * 1 piece Turmeric
 
 The Marinade: I use 2-inch piece of turmeric. Cut the lemongrass into 1-inch pieces. It will grind easier and won’t leave stringy marinade on the chicken. Grind the marinade (turmeric, lemongrass, peppercorns, salt and garlic) in a food processor or mortar. If you use the food processor, grind the peppercorns separately. They seem to escape the blade. If you are going the mortar and pestle route, start with peppercorns, lemongrass and salt. Follow with turmeric and garlic. Garlic and turmeric have more water content which makes it hard to pound.
 
