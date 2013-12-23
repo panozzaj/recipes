@@ -22,7 +22,7 @@ Tags: beans, sausage, rice, tried
  * Fresh Creole hot sausage or chaurice, links or patties, grilled or pan-fried, one link or patty per person (optional)
  * Pickled onions (optional)
 
-## Directions:
+## Directions
 
 Soak the beans overnight, if possible. The next day, drain and put fresh water in the pot. (This helps reduce the, um, flatulence factor.) Bring the beans to a rolling boil. Make sure the beans are always covered by water, or they will discolor and get hard. Boil the beans for about 45 - 60 minutes, until the beans are tender but not falling apart. Drain.
 
