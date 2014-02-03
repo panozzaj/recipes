@@ -1,6 +1,7 @@
 # Buffalo Chicken Sandwiches
 
 Prep time - 10 minutes
+
 Cook time - 20 minutes
 
 ## Ingredients:
