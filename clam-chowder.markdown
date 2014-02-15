@@ -15,17 +15,22 @@ Yield: 10 servings
 
 ## Ingredients
 
-10 cups clam juice
-2 pounds baking potatoes, like russets, peeled and diced
-4 pounds fresh or frozen clams, shelled and diced
-1/4 pound salt pork, diced
-2 small onions, diced
-1 cup butter
-1 cup flour
-2 pints half-and-half
-Salt and pepper
-Dash hot pepper sauce
-Dash Worcestershire sauce
+ * 10 cups clam juice
+ * 2 pounds baking potatoes, like russets, peeled and diced
+ * 4 pounds fresh or frozen clams, shelled and diced
+ * 1/4 pound salt pork, diced
+ * 2 small onions, diced
+ * 1 cup butter
+ * 1 cup flour
+ * 2 pints half-and-half
+ * Salt and pepper
+ * Dash hot pepper sauce
+ * Dash Worcestershire sauce
+
+### Additions
+
+ * 2 celery stalks
+ * 1 can of corn
 
 ## Directions
 
