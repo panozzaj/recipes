@@ -1,38 +1,3 @@
-* Recipes
-  Add these to the Github recipe repo
-** Chicken wings, baked
-
-*** 40ish wings mostly defrosted, at 375 degrees for about an hour
-    
-*** Buffalo sauce
-
-    Cooked over low heat in this order.
-
-     - 1/2 red onion, diced
-     - some garlic
-     - 1 C Frank's red hot sauce
-     - 1/2 package of cream cheese
-     - a little gorgozola
-     - salt
-
-*** "Mole" sauce
-
-    Cooked over low heat in this order. Add chocolate at end. Turned
-    out quite good, and not too spicy. First time trying something
-    like this.
-    
-     - 1/4 red onion, diced
-     - 1/4 can chipotle peppers, pureed
-     - 1/2 package of cream cheese
-     - ~2 tbsp. apple cider vinegar
-     - 3 squares Ghiradelli 86% dark chocolate
-     - salt
-     
-  :PROPERTIES:
-  :CREATED:  [2014-05-08 Thu 21:27]
-  :END:
-** Meal plan for paleo-like things
-   http://robbwolf.com/2011/01/16/pre-cooking-paleo-diet-food/
 ** Three Sisters Cafe Berry + Brie sandwich
    Brie, berries and apples on multigrain wheat
    Potential help:
