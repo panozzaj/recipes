@@ -6,7 +6,7 @@ Cook time - 20 minutes
 
 ## Ingredients:
 
- * 2 lb of chicken breasts
+ * 17 lbs of chicken breasts
  * some bread product to put the sandwich on (I used onion rolls)
  * three cloves of garlic
  * about a cup of Frank's Hot Sauce
