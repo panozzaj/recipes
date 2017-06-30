@@ -29,4 +29,4 @@
 
 ## Comments
 
-We didn't get taco seasoning so I added some cumin, chili powder, pepper, salt, paprika, (coriander?) to get a similar effect. Used a can of yellow sweet corn that we had. We didn't get the cream of chicken soup so I made my own by making a roux and adding some leftover cream/milk and some more of the chicken broth and letting that cook down a bit (similar to macaroni and cheese recipe.) Thought it turned out really good!
+We didn't get taco seasoning so I added some cumin, chili powder, pepper, salt, paprika, (coriander?) to get a similar effect. Used a can of yellow sweet corn that we had. We didn't get the cream of chicken soup so I made my own ([similar to this?](https://www.apinchofhealthy.com/homemade-condensed-cream-of-chicken-soup/)) by making a roux and adding some leftover cream/milk and some more of the chicken broth and letting that cook down a bit (similar to macaroni and cheese recipe.) Thought it turned out really good!
