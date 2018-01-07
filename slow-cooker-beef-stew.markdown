@@ -10,7 +10,7 @@ Monica likes this recipe, I find it a bit bland. It's a solid base recipe though
 - 1/2 cup flour
 - Kosher salt and pepper
 - 3 cups beef broth
-- 1 tbsp Worsestershire sauce
+- 1 tbsp Worcestershire sauce
 - carrots
 - 3 cloves of garlic, minced
 - 2 bay leaves
