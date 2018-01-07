@@ -23,3 +23,5 @@ I came up with this recipe after reading through a few online and combining them
 1. In a bowl, combine most of the feta cheese with the meat, garlic/onion, pasta sauce, chopped dill (< 1 sprig), spices, rice.
 1. Spoon mixture into peppers, top with reserved cheese, and then put the top back on.
 1. Cook on grill or in oven for a little while.
+
+Note: some sun-dried tomatoes would not be bad either
