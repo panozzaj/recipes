@@ -26,3 +26,7 @@ water over medium heat. Cook, stirring occasionally, until the sugar has
 dissolved. Stir in cranberries and bring to a boil; reduce heat and let simmer
 until sauce has thickened, about 15 minutes. Let cool completely before
 serving.
+
+## Notes
+
+Good for Thanksgiving to counter the typical canned sauce. Less sugar too probably, although I like a bit of sourness. Got the original idea from the Terry wedding. In 2017 I added like one star anise and thought it turned out really well. 
