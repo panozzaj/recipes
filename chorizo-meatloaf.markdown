@@ -31,3 +31,7 @@ Blend all of these
 Bake in oven until cooked (350 degrees?)
 
 Green onion garnish
+
+## Notes
+
+Flavor is good but was too spicy. Even with not adding the Chipotle chile to the meat. 
