@@ -14,10 +14,11 @@ Yield: 3 cups
 
 ## Ingredients
 
-1/4 cup freshly squeezed orange juice
-Zest of 1 orange
-~1/2 cup sugar, to taste
-1 (12-ounce) bag fresh cranberries
+- 1/4 cup freshly squeezed orange juice
+- Zest of 1 orange
+- ~1/2 cup sugar, to taste
+- 1 (12-ounce) bag fresh cranberries
+- Probably put in pumpkin spice, etc.
 
 ## Directions
 
