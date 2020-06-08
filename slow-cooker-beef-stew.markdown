@@ -1,4 +1,4 @@
-# Beef Stew
+# Slow Cooker Beef Stew
 
 Source: Manual that came with the crock pot, plus some personal variations
 

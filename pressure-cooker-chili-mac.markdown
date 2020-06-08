@@ -1,4 +1,6 @@
-# Pressure cooker chili mac
+# Pressure Cooker Chili Mac
+
+Inspiration: The Great Big Pressure Cooker book has a similar recipe
 
 ## Ingredients
 
@@ -9,7 +11,7 @@
  - red pepper or other bell pepper
  - chili powder (lots!), cumin, black pepper, salt, ancho chili, mexican oregano, etc.
  - 28 oz canned crushed or fire roasted tomatoes
- - 2 cans of beans (red and black are good)
+ - 2 cans of beans, rinsed and drained (red and black are good)
  - 2 C liquid (need more than usual due to needing to cook noodles) can use:
    - beef broth, chicken broth, tomato juice, little wine, etc.
  - 8 oz dried pasta
@@ -22,7 +24,7 @@
  - should rinse and drain beans as well
 2. Stir in remaining ingredients (except cheese)
 3. Stew pressure mode - 8 min
-4. Quick release
+4. Natural release 7 min, then quick release
 5. Sprinkle cheese on top and put lid back on to melt it
 
 Can serve with sour cream, etc.

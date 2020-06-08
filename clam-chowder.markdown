@@ -53,7 +53,8 @@ before serving.
 Used 4x10 oz cans of clams in water instead, using the liquid of them as the
 clam juice and reserving the clams until the end (very important to prevent
 rubbery clams.) Pretty sure I added celery. Added a can of corn. Probably used
-bacon instead of the salt pork, could use prosciutto also instead.
+bacon instead of the salt pork, could use prosciutto also instead. You can get
+canned clams pretty easily online.
 
 Turned out to be well-received. If heating up for multiple people, I would
 recommend adding a little milk or half-and-half to the mix to prevent it from

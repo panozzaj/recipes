@@ -11,7 +11,6 @@ Tags: appetizer, side dish, vegetarian, vegan, tried
  * 3/4 teaspoon kosher salt
  * 1/2 teaspoon freshly ground black pepper
 
-
 ## Directions
 
 "Preheat oven to 400 degrees F.

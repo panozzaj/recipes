@@ -1,8 +1,6 @@
-** Three Sisters Cafe Berry + Brie sandwich
-   Brie, berries and apples on multigrain wheat
-   Potential help:
-   http://yessireepetunia.blogspot.com/2012/05/lazy-lunch-brie-grilled-cheese.html
+# Three Sisters Cafe Berry + Brie sandwich
 
-   [2014-08-25 Mon] Made a sandwich that was grilled cheese with brie,
-   apples, and berries (berries were a bit mashed up.) Overall tasted
-   good!
+Brie, berries and thinly sliced apples on multigrain wheat
+
+Made a sandwich that was grilled cheese with brie, apples, and berries (berries were a bit mashed up.) Overall tasted
+good! Could also add honey.

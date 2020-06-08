@@ -1,3 +1,7 @@
+# Holiday red cabbage
+
+This is a nice wintry side dish
+
 - 1 head of red cabbage, core removed, chopped thinly
 - cranberries - enough to cover bottom of big pot (roughly 1 lb) - might have used more next time
 - orange juice (good amount)

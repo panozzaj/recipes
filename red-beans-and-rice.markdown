@@ -5,6 +5,7 @@ Tags: beans, sausage, rice, tried
 [Origin](http://www.gumbopages.com/food/red-beans.html)
 
 ## Ingredients
+
  * 1 pound red kidney beans, dry
  * 1 large onion, chopped
  * 1 bell pepper, chopped
