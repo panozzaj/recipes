@@ -29,11 +29,11 @@ Tomato sauce to cover the pot at the end (not sure how much or what kind?)
 
 ## Directions
 
-1. ![Boil the cabbage](./images/2014-12-22 12.52.19.jpg)
+1. ![Boil the cabbage](images/2014-12-22 12.52.19.jpg)
 
 Peel off the leaves when the cabbage is cooled and save for later step
 
-2. ![Wash the sauerkraut and drain, to remove some of the sourness](./images/2014-12-22 18.16.33.jpg)
+2. ![Wash the sauerkraut and drain, to remove some of the sourness](../images/2014-12-22 18.16.33.jpg)
 
 3. ![Cut up onion](./images/2014-12-22 13.55.41.jpg)
 
