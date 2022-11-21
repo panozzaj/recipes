@@ -6,7 +6,7 @@ Tags: Christmas, tried
 
 ## Ingredients
 
-These ingredients are doubled for the original because that is how much I make.
+These ingredients are doubled from the original because that is how much I make.
 
 * 2 lbs uncooked spiral tube-shaped pasta
 * 2 teaspoons olive oil
