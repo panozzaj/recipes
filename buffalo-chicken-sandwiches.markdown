@@ -14,7 +14,7 @@ Cook time - 20 minutes
  * 2-3 celery stalks
  * 8 oz. of cream cheese
  * blue cheese crumbles
- * a little paprika and/or cumin
+ * a little paprika
  * salt
  * pepper
 
