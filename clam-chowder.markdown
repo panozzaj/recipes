@@ -1,7 +1,6 @@
 # Clam Chowder
 
-[Source](http://www.foodnetwork.com/recipes/clam-chowder-recipe2.print.html)
-Clam Chowder
+[Source](https://www.foodnetwork.com/recipes/clam-chowder-recipe20-1937825)
 
 ## Overview
 
