@@ -24,3 +24,7 @@ Prefix patterns indicate cooking method:
 
 - `pressure-cooker-*` - Instant Pot/pressure cooker recipes
 - `slow-cooker-*` - Crock-Pot recipes
+
+## Workflow Tips
+
+When fetching recipe details from external URLs using Playwright MCP, use a subagent (Task tool) to reduce token usage in the main conversation.
