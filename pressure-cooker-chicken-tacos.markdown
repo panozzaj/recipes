@@ -1,20 +1,27 @@
 # Pressure Cooker Chicken Tacos
 
-Good weeknight meal. Easy mode would be to just throw all ingredients in and cook for about 20 minutes on high pressure. I typically cook the chicken on high heat to get a little crispiness.
+Simple weeknight meal - just dump everything in and cook.
 
-## Method
+## Ingredients
 
-- Instant pot on saute highest setting
-- Then add chicken. I like about 1.5 lb of thighs.
-  - possibly with a little oil (coconut oil is kind of nice)
-  - spices (salt, pepper, cumin, paprika, taco seasoning, chili powders are good)
-- When chicken is browned but not fully cooked through, set it aside
-- Add some diced onions, stirring to make sure any crispy bits are scraped up from bottom.
-- Can add a little white wine or chicken broth to deglaze as well if needed.
-- Then add some garlic, a jar of mild salsa verde, and add the chicken back in and stir.
-- Pressure cook on high for 20 minutes then quick release.
+- Jarred salsa verde (enough to cover bottom of pot)
+- 1-1.5 lb chicken (thighs work well)
+- Chili powder
+- Ground cumin
+- Ground coriander
+- Salt and pepper
+- Onion, diced (optional)
 
-## Notes
+## Directions
 
-Can add canned black beans if desired before pressure cooking, just drain the can and rinse
-Can also add rice, just add ~2.5C of chicken broth / stock per 1 C of rice. Rice should be submerged. Or add previously cooked rice instead at the end
+1. Pour salsa verde into bottom of pressure cooker.
+2. Add chicken and season with spices. Add onion if using.
+3. Pressure cook on high for 20 minutes.
+4. Natural release for 5 minutes, then quick release.
+5. Shred chicken and stir into sauce.
+
+## Variations
+
+- **Sautéed version**: Brown chicken on sauté setting first for extra flavor. Set aside, sauté onions and garlic, deglaze with white wine or chicken broth, then add salsa verde and chicken back before pressure cooking.
+- **With black beans**: Add a drained and rinsed can of black beans before cooking.
+- **With rice**: Add 1 cup rice and 2.5 cups chicken broth (rice should be submerged). Or stir in cooked rice at the end.
