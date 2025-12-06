@@ -83,7 +83,7 @@ One version of the cakes I made was:
 
 Form into patties and cook in cast iron skillet with oil in it.
 
-Be sure to make a remoulade sauce to put on the cakes, or at least lemon slices.
+Be sure to make a [remoulade sauce](./remoulade-sauce.markdown) to put on the cakes, or at least lemon slices.
 
 One last idea with leftover cooked salmon is to make a slightly nicer instant ramen (Nongshim Shin Ramyun) and the salmon to it at the end to heat it through.
 
