@@ -6,10 +6,10 @@ Mostly just made this based on recipes I saw, similar to brussels sprouts recipe
 
 ## Ingredients
 
- * kale
- * a little olive oil
- * kosher salt
- * freshly ground black pepper
+- kale
+- a little olive oil
+- kosher salt
+- freshly ground black pepper
 
 ## Directions
 

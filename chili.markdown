@@ -27,18 +27,20 @@ I have iterated my way to this over the last probably 10 years, mostly settled o
 
 1. brown ground beef with salt, pepper, cumin, chili powders, maybe some liquid smoke
 2. meanwhile:
- - dice peppers / onion
- - put beans in colander and rinse with cold water
+
+- dice peppers / onion
+- put beans in colander and rinse with cold water
+
 3. drain the beef fat into one of the now-empty cans if desired
 4. combine ingredients in crockpot or on stove on low for like 4 hours.
 5. Taste seasonings after a few hours and adjust
 6. add dark chocolate toward end (1/2 hour cook time remaining?)
 
 Garnishes:
- - Limes
- - sour cream
- - cheddar cheese
- - cilantro
- - raw jalapenos
- - raw or roasted garlic
 
+- Limes
+- sour cream
+- cheddar cheese
+- cilantro
+- raw jalapenos
+- raw or roasted garlic

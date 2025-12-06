@@ -4,20 +4,20 @@
 
 ## Ingredients
 
- - 1 1/2 Pounds flank steak
- - 3 garlic cloves, minced
- - 1/2 cup carrots, shredded
- - 1/2 cup soy sauce
- - 1/4 cup white wine
- - 1/4 cup cooking sherry
- - 1 tsp sesame oil
- - 1 tsp maple syrup or honey
- - 1 tsp dried ginger
- - 1 tsp red chili pepper flakes
- - 1/2 T. peanut butter
- - 3 T. brown sugar
- - 2 cups of frozen chopped broccoli
- - Salt, pepper
+- 1 1/2 Pounds flank steak
+- 3 garlic cloves, minced
+- 1/2 cup carrots, shredded
+- 1/2 cup soy sauce
+- 1/4 cup white wine
+- 1/4 cup cooking sherry
+- 1 tsp sesame oil
+- 1 tsp maple syrup or honey
+- 1 tsp dried ginger
+- 1 tsp red chili pepper flakes
+- 1/2 T. peanut butter
+- 3 T. brown sugar
+- 2 cups of frozen chopped broccoli
+- Salt, pepper
 
 ## Directions
 

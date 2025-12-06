@@ -4,11 +4,11 @@ We had a bunch of goat cheese and differently colored cherry tomatoes, mostly re
 
 ## Ingredients
 
- - olive oil
- - a few handfuls of cherry tomatoes
- - minced garlic
- - a few dollops of goat cheese
- - salt, pepper, italian seasonings
+- olive oil
+- a few handfuls of cherry tomatoes
+- minced garlic
+- a few dollops of goat cheese
+- salt, pepper, italian seasonings
 
 ## Directions
 

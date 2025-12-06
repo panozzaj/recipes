@@ -4,19 +4,19 @@
 
 ## Ingredients
 
- - 1 1⁄4 lbs boneless skinless chicken
- - 2 (15 ounce) cans great northern beans or 2 (15 ounce) cans navy beans
- - 1 (15 ounce) can hominy or 1 (15 ounce) can white corn
- - 1 (1 1/4 ounce) envelope taco seasoning
- - 1 (4 1/2 ounce) can of chopped green chilies
- - 1 (10 3/4 ounce) can condensed cream of chicken soup
- - 1 (14 ounce) can chicken broth
+- 1 1⁄4 lbs boneless skinless chicken
+- 2 (15 ounce) cans great northern beans or 2 (15 ounce) cans navy beans
+- 1 (15 ounce) can hominy or 1 (15 ounce) can white corn
+- 1 (1 1/4 ounce) envelope taco seasoning
+- 1 (4 1/2 ounce) can of chopped green chilies
+- 1 (10 3/4 ounce) can condensed cream of chicken soup
+- 1 (14 ounce) can chicken broth
 
 ## Toppings
 
- - 1⁄2 cup sour cream
- - chopped green onion (optional)
- - monterey jack cheese (optional)
+- 1⁄2 cup sour cream
+- chopped green onion (optional)
+- monterey jack cheese (optional)
 
 ## Directions
 

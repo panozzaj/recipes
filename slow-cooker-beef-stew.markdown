@@ -2,7 +2,7 @@
 
 Source: Manual that came with the crock pot, plus some personal variations
 
-Monica likes this recipe, I find it a bit bland. It's a solid base recipe though. I *really* like adding some kimchi at the bottom of my bowl. It gives the recipe some much needed spice, adds acid, and also adds a Korean flavor to the beef. Overall this approach is highly recommended, although I can't seem to convince anyone else to try it! :)
+Monica likes this recipe, I find it a bit bland. It's a solid base recipe though. I _really_ like adding some kimchi at the bottom of my bowl. It gives the recipe some much needed spice, adds acid, and also adds a Korean flavor to the beef. Overall this approach is highly recommended, although I can't seem to convince anyone else to try it! :)
 
 ## Ingredients
 

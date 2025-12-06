@@ -6,9 +6,9 @@ Original inspiration: https://www.budgetbytes.com/cumin-lime-roasted-sweet-potat
 
 ## Ingredients
 
- - 2-3 sweet potatoes
- - lime
- - cumin, salt
+- 2-3 sweet potatoes
+- lime
+- cumin, salt
 
 ## Directions
 

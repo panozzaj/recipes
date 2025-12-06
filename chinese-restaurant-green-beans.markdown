@@ -16,8 +16,8 @@ I thought this turned out pretty good since it was flavorful and the beans still
 
 Some other things that could be added or substituted:
 
- - white pepper
- - garlic (add toward end of recipe (after water evaporates) to reduce the chance of burning)
+- white pepper
+- garlic (add toward end of recipe (after water evaporates) to reduce the chance of burning)
 
 ### Footnotes:
 

@@ -18,8 +18,7 @@ Fresh Rosemary
 
 ## Directions
 
-Preheat oven to the said temperature on the Boboli package. I believe it is
-450. Chop finely, 1/4 of an onion. Place in a sauce pan, with some olive oil,
+Preheat oven to the said temperature on the Boboli package. I believe it is 450. Chop finely, 1/4 of an onion. Place in a sauce pan, with some olive oil,
 and begin to carmelize. Once the onions, have carmelized spoon in the orange
 marmalade. I made mine a little too "orangey", so just kind of taste it along
 the way. Let simmer until thin.

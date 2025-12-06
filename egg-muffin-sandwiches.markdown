@@ -31,5 +31,5 @@ Enjoy! Once you've practiced, takes about ten minutes.
 
 Extra notes:
 
- - 50% power is important to prevent eggs from exploding
- - Can use toaster for muffins instead, may start later
+- 50% power is important to prevent eggs from exploding
+- Can use toaster for muffins instead, may start later

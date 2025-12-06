@@ -5,6 +5,7 @@
 ## Ingredients
 
 ### Egg Salad
+
 - 8 eggs
 - 1/4 C diced green onions (chives)
 - 1/4 tsp celery salt
@@ -14,6 +15,7 @@
 - about 1/4 C mayonnaise
 
 ### Sandwich
+
 - croissants or thickly sliced sourdough
 - bacon
 - avocado

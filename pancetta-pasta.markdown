@@ -4,11 +4,11 @@ I think my wife learned this recipe and I modified it slightly.
 
 ## Ingredients
 
- - Pasta, usually 1 lb. of rigatoni or similar circular pasta
- - Pancetta, cubed (if you get from deli, ask for thick slices and then you can cube more easily)
- - 1/2 pt ? Heavy whipping cream
- - 1 red pepper, diced
- - olive oil
+- Pasta, usually 1 lb. of rigatoni or similar circular pasta
+- Pancetta, cubed (if you get from deli, ask for thick slices and then you can cube more easily)
+- 1/2 pt ? Heavy whipping cream
+- 1 red pepper, diced
+- olive oil
 
 ## Directions
 

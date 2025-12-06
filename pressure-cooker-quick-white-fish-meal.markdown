@@ -6,11 +6,11 @@ Basically the idea is that you are going to layer the instant pot so that the st
 
 ## Ingredients
 
- - 1/2 lb of potatoes
- - 1 lemon
- - green beans and/or carrots
- - 3-4 white fish (tilapia, etc.) fillets
- - butter, salt, pepper, various spices
+- 1/2 lb of potatoes
+- 1 lemon
+- green beans and/or carrots
+- 3-4 white fish (tilapia, etc.) fillets
+- butter, salt, pepper, various spices
 
 ## Method
 

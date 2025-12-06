@@ -22,7 +22,6 @@
 3 green onions, chopped
 1/4 cup fresh cilantro, chopped
 
-
 ## Instructions
 
 In a large skillet, cook the ground chicken until no pink remains. Place in the

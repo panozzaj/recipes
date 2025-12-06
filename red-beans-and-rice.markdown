@@ -6,22 +6,22 @@ Tags: beans, sausage, rice, tried
 
 ## Ingredients
 
- * 1 pound red kidney beans, dry
- * 1 large onion, chopped
- * 1 bell pepper, chopped
- * 5 ribs celery, chopped
- * As much garlic as you like, minced (I like lots, 5 or 6 cloves)
- * 1 large smoked ham hock, 3/4 pound of Creole-style pickle meat (pickled pork), or 3/4 lb. smoked ham, diced, for seasoning
- * 1 to 1-1/2 pounds mild or hot smoked sausage or andouille, sliced on the bias
- * 1/2 to 1 tsp. dried thyme leaves, crushed
- * 1 or 2 bay leaves
- * As many dashes Crystal hot sauce or Tabasco as you like, to taste
- * A few dashes Worcestershire sauce
- * Creole seasoning blend, to taste; OR,
-    * red pepper and black pepper to taste
- * Salt to taste
- * Fresh Creole hot sausage or chaurice, links or patties, grilled or pan-fried, one link or patty per person (optional)
- * Pickled onions (optional)
+- 1 pound red kidney beans, dry
+- 1 large onion, chopped
+- 1 bell pepper, chopped
+- 5 ribs celery, chopped
+- As much garlic as you like, minced (I like lots, 5 or 6 cloves)
+- 1 large smoked ham hock, 3/4 pound of Creole-style pickle meat (pickled pork), or 3/4 lb. smoked ham, diced, for seasoning
+- 1 to 1-1/2 pounds mild or hot smoked sausage or andouille, sliced on the bias
+- 1/2 to 1 tsp. dried thyme leaves, crushed
+- 1 or 2 bay leaves
+- As many dashes Crystal hot sauce or Tabasco as you like, to taste
+- A few dashes Worcestershire sauce
+- Creole seasoning blend, to taste; OR,
+  - red pepper and black pepper to taste
+- Salt to taste
+- Fresh Creole hot sausage or chaurice, links or patties, grilled or pan-fried, one link or patty per person (optional)
+- Pickled onions (optional)
 
 ## Directions
 
@@ -41,6 +41,6 @@ YIELD: 8 servings
 
 ## My thoughts
 
-AJP: I used canned beans, and it worked out fine.  Maybe a little more sodium, but a lot easier.  Used some spicy red sausage from Kroger.  Was easily one of the best things that I have made, I would consider serving this to other people.
+AJP: I used canned beans, and it worked out fine. Maybe a little more sodium, but a lot easier. Used some spicy red sausage from Kroger. Was easily one of the best things that I have made, I would consider serving this to other people.
 
 AP part 2: I have also used dried beans now with this recipe. Makes it pretty good as well, just takes some more work. I still really like this recipe. It does not taste like Popeye's RB&R, which was my inspiration, but still pretty good.

@@ -4,14 +4,14 @@
 
 ## Ingredients
 
- - 2 salmon fillets (approx. 6 oz. each, skin on)
- - Salt and pepper to taste
- - 1/2 lemon, juiced
- - 1 Tbsp course grain mustard (or Dijon)
- - 1 Tbsp honey
- - 1/4 cup pistachio nuts, shelled
- - 2 Tbsp panko bread crumbs
- - 1 Tbsp canola oil
+- 2 salmon fillets (approx. 6 oz. each, skin on)
+- Salt and pepper to taste
+- 1/2 lemon, juiced
+- 1 Tbsp course grain mustard (or Dijon)
+- 1 Tbsp honey
+- 1/4 cup pistachio nuts, shelled
+- 2 Tbsp panko bread crumbs
+- 1 Tbsp canola oil
 
 ## Instructions
 

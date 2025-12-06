@@ -2,11 +2,11 @@
 
 ## Ingredients
 
- * 2 lb. ground turkey breast
- * feta cheese
- * spinach
- * ranch dressing packet
- * 2 eggs
+- 2 lb. ground turkey breast
+- feta cheese
+- spinach
+- ranch dressing packet
+- 2 eggs
 
 ## Prep
 
