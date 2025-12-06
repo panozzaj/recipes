@@ -9,6 +9,7 @@ This is a personal recipe collection - markdown files containing food recipes. N
 ## Recipe Format
 
 Each recipe is a standalone `.markdown` file with:
+
 - H1 title (recipe name)
 - Original recipe/source link at the top (if adapted from elsewhere)
 - `## Ingredients` section (bulleted list)
@@ -20,5 +21,6 @@ Each recipe is a standalone `.markdown` file with:
 Files use lowercase with hyphens: `recipe-name.markdown`
 
 Prefix patterns indicate cooking method:
+
 - `pressure-cooker-*` - Instant Pot/pressure cooker recipes
 - `slow-cooker-*` - Crock-Pot recipes

@@ -1,0 +1,12 @@
+# Quiet by default, use LEFTHOOK_VERBOSE=1 for full output
+output:
+  - summary
+  - failure
+
+pre-commit:
+  parallel: true
+  jobs:
+    - name: prettier
+      glob: "*.{markdown,md,yml,yaml,json}"
+      run: source ~/.nvm/nvm.sh && nvm use 20 && npx prettier --write {staged_files}
+      stage_fixed: true
