@@ -40,9 +40,26 @@ Inspired by Punch Burger - put shredded cheese on the outside of the bread and f
 
 Press with a weight (cast iron pan) while cooking for extra crispy/flat result.
 
+## Monte Cristo
+
+Based on [The Fresh 20](https://thefresh20.com/)
+
+Egg-dipped ham and cheese sandwich - like savory French toast.
+
+- 8 slices bread
+- 1 Tbsp Dijon mustard
+- 8 oz ham, thinly sliced
+- 1 cup shredded gruyere or Swiss cheese
+- 2 eggs, beaten
+- Dash of black pepper
+
+1. Heat a large non-stick skillet over medium heat.
+2. Assemble 4 sandwiches with bread, mustard, ham, and cheese.
+3. Whisk eggs with pepper and dip each sandwich carefully into mixture.
+4. Cook 2-3 minutes on each side until golden and crisp.
+
 ## Related
 
-- Monte Cristo sandwiches (see Fresh20 recipe)
 - French Toast (same technique, different spices)
 - Pan croutons (cube the bread, same butter/toast approach)
 - See [three-sisters-sandwich.markdown](./three-sisters-sandwich.markdown)
