@@ -1,6 +1,6 @@
 # Beef Kofte
 
-Based on The Fresh 20 (Classic August 8, 2014)
+Based on [The Fresh 20](https://thefresh20.com/)
 
 ## Ingredients
 
