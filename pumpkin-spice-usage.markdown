@@ -23,3 +23,5 @@ Here are some common things that I use it in:
   This brings out the sweetness of these vegetables without being overpowering.
 
 - [**Frozen banana "ice cream"**](./frozen-banana-ice-cream.markdown)
+
+- [**Rice custard**](./pressure-cooker-rice-custard.markdown)
